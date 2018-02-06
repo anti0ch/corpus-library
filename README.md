@@ -1,5 +1,5 @@
 # corpus-library
-A public collection of various corpuses to be used for training predictive linguistic models of all stripes and all flavors.
+A public collection of various corpora to be used for training predictive linguistic models of all stripes and all flavors.
 
 ## Current datasets:
 
