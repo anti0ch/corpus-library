@@ -11,7 +11,7 @@ A public collection of various corpora to be used for training predictive lingui
 
 - turtles.txt: A list of the names of every turtle species scraped from https://animalsake.com/different-types-of-turtles. Turtles with 'or' names have been separated into two entries. The list is fully lowercase to provide more uniformity in a relatively small dataset, and hyphens have been replaced with spaces.
 
-If you are interested in the addition of more corpuses to this repository and have one specific one in mind, or have one you'd like to submit yourself, feel free to contact me via Twitter @cosmo_chou.
+If you are interested in the addition of more corpuses to this repository and have one specific one in mind, or have one you'd like to submit yourself, feel free to contact me via Twitter @cosmo_chou or email via antioch@cjchou.com.
 
 ## Current project:
 
