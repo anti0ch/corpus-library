@@ -5,6 +5,8 @@ A public collection of various corpora to be used for training predictive lingui
 
 - capes.txt: A list of crowdsourced names for 'parahumans', both superheroes, supervillains, and others with nominal or ambiguous alignment, submitted by members of the Parahumans community and acquired from the original work of fiction, Worm. Best suited for character-level models.
 
+- dashboard-confessional.txt: A full lyrical corpus of the Dashboard Confessional discography.
+
 - dril.txt, dril.json: A full corpus of every tweet by prolific 'Weird Twitter' personality @dril up to February 05, 2018. The .txt file does not differentiate between line breaks within tweets and line breaks delimiting tweets, so be warned. The .json file is much tidier about these sorts of things.
 
 - fall-out-boy.txt: A mostly full corpus of the lyrics of every song in the Fall Out Boy discography. Some songs have probably slipped through the cracks, and I apologize.
